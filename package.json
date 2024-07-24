@@ -1,7 +1,7 @@
 {
   "name": "easy-clip",
   "displayName": "Easy clip",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple extension to store clipboard items",
   "author": "Sreekanth K",
   "scripts": {
@@ -10,6 +10,7 @@
     "package": "plasmo package"
   },
   "dependencies": {
+    "@plasmohq/storage": "^1.11.0",
     "plasmo": "0.88.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
